@@ -10,5 +10,3 @@ const connectDatabase=()=>{
 }
 
 module.exports=connectDatabase;
-
-// "mongodb+srv://makenotes:mtrenchpass@cluster0.aiyr8cl.mongodb.net/notes?retryWrites=true&w=majority"
